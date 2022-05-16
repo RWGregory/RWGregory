@@ -1,12 +1,8 @@
 - 👋 Hi, I’m Ryan!
 
-- 👀 I’m a professional violinist/violist who began learning JavaScript, HTML, and CSS in September 2021.
+- 👀 I’m a professional violinist/violist who began programming in web development about a year ago.
 
-- 🌱 I’m currently learning full-stack web devlopment with MERN through a course with MITxPro. I'm also working through 
-   freecodecamp.org, exercism.org, and I've just joined codewars.com to become a better algorist. 
-   
-   Once I have a strong command JavaScript, I'm interested in learning Rust, Elixir,
-   .NET, and WASM. 
+- 🌱 I’ve learned React, Node, and the broader world of JavaScript based development through freeCodeCamp and Scrimba. Currently, I'm making my way through the University of Helsinki's FullStackOpen curriculum through which I am  advancing my skills in React, Redux, GraphQL, Typescript, testing, and CI/CD. 
    
 - 💞️ I’m looking to collaborate on anything relevant to my future as a developer.
 
