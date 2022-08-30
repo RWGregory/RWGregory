@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Ryan!
+I'm Ryan Gregory, a web developer with a strong focus on enabling contractors, artists, artisans, and freelancers.  I work primarily with Next JS because it's balance between expressiveness and powerful features allows me to delivery rich, optimized, accessible content easily.  I am looking for opportunities to deepen my knowledge of Web Components and WASM/WASI.  In addition to my current stack, I would would also welcome opportunitites to work with Qwik, Polymer, SolidJS and Elixir/Phoenix (I ❤ THE BEAM). 
 
-- 👀 I’m a professional violinist/violist who began programming in web development about a year ago.
+I also teach people how to play violin and play viola with the Atlanta Opera.
 
-- 🌱 I’ve learned React, Node, and the broader world of JavaScript based development through freeCodeCamp and Scrimba. Currently, I'm making my way through the University of Helsinki's FullStackOpen curriculum through which I am  advancing my skills in React, Redux, GraphQL, Typescript, Testing, and CI/CD. 
-   
-- 💞️ I’m looking to collaborate on anything relevant to my future as a developer.
-
-- 📫 Ryan.middleFiddle@gmail.com
+📫 Ryan.middleFiddle@gmail.com
