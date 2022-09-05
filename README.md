@@ -1,4 +1,4 @@
-I'm Ryan Gregory, a web developer focused on enabling contractors, artists, artisans, small businesses and freelancers to organize their operations and simplify their communication with clients.  I work primarily with Next.js because it's expressive and flexible approach to full stack development allow me to delivery rich, optimized, accessible content easily.
+I'm Ryan Gregory, a web developer focused on enabling contractors, artists, artisans, small businesses and freelancers to organize their operations and simplify their communication with clients.  I work primarily with Next.js because it's expressive and flexible approach to full stack development allows me to delivery rich, optimized, accessible content easily.
 
 My strongest programming language is Typescript. I'm currently tinkering with languages like Elixir, F#, C#, PHP, and Rust. 
 
